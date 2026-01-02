@@ -26,7 +26,7 @@ First player to align 3 symbols (row, column, or diagonal) wins
 If all boxes are filled with no winner → Draw
 
 ## 🌐 Live Website
-
+https://tic-tac-toe-game-garbhit.netlify.app/
 
 ## 🌱 Future Improvements
 
